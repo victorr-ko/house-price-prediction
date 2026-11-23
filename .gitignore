@@ -1,0 +1,18 @@
+# Data (download from the source linked in the README)
+train.csv
+test.csv
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
